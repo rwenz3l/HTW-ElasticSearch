@@ -2,3 +2,9 @@
 venv/
 # Ignore ElasticSearch
 es/
+
+# Ignore macOS Crap
+.DS_Store
+
+# Ignore IPython/Jupyter Notebook checkpoints
+.ipynb_*
