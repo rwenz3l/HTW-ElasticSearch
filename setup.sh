@@ -19,11 +19,6 @@ pip install bash_kernel
 # Register Kernel
 python -m bash_kernel.install
 
-# Install RISE
-pip install RISE
-jupyter-nbextension install rise --py --sys-prefix
-jupyter nbextension enable rise --py --sys-prefix
-
 # Start the Notebook
 # screen
 # -d -m 
