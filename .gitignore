@@ -1,0 +1,4 @@
+# Ignore Python VirtualEnv
+venv/
+# Ignore ElasticSearch
+es/
